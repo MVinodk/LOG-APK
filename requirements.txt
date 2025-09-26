@@ -1,0 +1,4 @@
+kivy
+pandas
+openpyxl
+matplotlib
